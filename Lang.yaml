@@ -1,0 +1,7 @@
+title: Lang
+x-stoplight:
+  id: ywwyvorv8e8cy
+type: string
+description: Locale identifier
+format: '[a-z]{2}_[A-Z]{2}'
+example: fr_FR

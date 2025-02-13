@@ -1,0 +1,13 @@
+title: GeoLocationMode
+x-stoplight:
+  id: g64u18z3z66t5
+type: object
+properties:
+  value:
+    type: string
+    x-stoplight:
+      id: qe2kn1e9495qt
+  label:
+    type: string
+    x-stoplight:
+      id: totk40x42ku5x

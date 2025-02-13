@@ -1,0 +1,8 @@
+title: Subnetwork
+x-stoplight:
+  id: tb53jvx8tks7u
+type: string
+description: Subnetwork associated to Payment Network
+enum:
+  - CREDIT_TRANSFER
+  - DIRECT_DEBIT

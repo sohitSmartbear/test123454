@@ -1,0 +1,6 @@
+title: VelocityBatchId
+x-stoplight:
+  id: zcvnyej32fop1
+type: integer
+example: 1
+description: ID of a Velocity batch.

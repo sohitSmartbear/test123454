@@ -1,0 +1,28 @@
+title: Velocity Pre-check result
+x-stoplight:
+  id: lerqrmese6yvx
+type: object
+readOnly: true
+description: Velocity check occuring befor attempting to handle the instruction.
+required:
+  - status
+properties:
+  status:
+    type: string
+    description: Velocity pre-check status
+    enum:
+      - SUCCESS
+      - FAILED
+    x-stoplight:
+      id: fhq2t67ussv83
+  message:
+    oneOf:
+      - type: 'null'
+        x-stoplight:
+          id: 9lq968f3sjxci
+      - type: string
+        description: Details in case of failure
+        x-stoplight:
+          id: wrsahgtufdzlx
+    x-stoplight:
+      id: a4q7fxou0n4nk

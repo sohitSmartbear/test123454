@@ -1,0 +1,6 @@
+title: ExternalId
+x-stoplight:
+  id: z8aocmoxml1aj
+type: string
+description: External ID (from the calling system)
+example: EXT123456789

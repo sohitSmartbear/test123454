@@ -1,0 +1,10 @@
+title: ReadOnlyIdentityId
+x-stoplight:
+  id: d9mm0tofb5i56
+allOf:
+  - $ref: ./IdentityId.yaml
+    x-stoplight:
+      id: q99kx011nlt5w
+  - readOnly: true
+    x-stoplight:
+      id: i1470rtbp0yp1

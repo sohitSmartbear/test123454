@@ -1,0 +1,11 @@
+title: VelocityRuleType
+x-stoplight:
+  id: plmi1u4jn5i6i
+type: string
+enum:
+  - calendar1
+  - calendar2
+  - calendar3
+  - rolling1
+  - rolling2
+  - rolling3
