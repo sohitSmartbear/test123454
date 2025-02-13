@@ -231,6 +231,7 @@ paths:
             $ref: '#/definitions/ErrorResponse'
       x-stoplight:
         id: mambqqe469sra
+      description: nmnmnmnm
   '/moneypot/{moneypotId}/status':
     parameters:
       - name: moneypotId
@@ -303,6 +304,7 @@ paths:
             $ref: '#/definitions/ErrorResponse'
       x-stoplight:
         id: kiwh74uv2syc5
+      description: 'blb,mbm,b'
   '/moneypot/{moneypotId}':
     parameters:
       - name: moneypotId
